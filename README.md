@@ -1,5 +1,6 @@
 # Вступление
 Серверная сторона ассистента с использованием Google Bard AI на основе фреймворка Spring.
+Клиентская часть: https://github.com/CommonPrint/bard-ai-assistant-client/tree/main
 
 # Инструкция
 1. Для запуска проекта нужно перейти на официальный сайт https://bard.google.com/
